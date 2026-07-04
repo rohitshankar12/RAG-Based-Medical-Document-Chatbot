@@ -28,8 +28,6 @@ RAG Chain (Groq + LangChain)
 LLM-generated Answer
 ```
 
-For a detailed architectural walkthrough, refer to [`MedicalAssistant.pdf`](assets/MedicalAssistant.pdf).
-
 ---
 
 ## 📚 Features
