@@ -36,7 +36,7 @@ LLM-generated Answer
 - ✂️ Auto-extracts text and splits it into semantic chunks
 - 🧠 Embeds content using Google Generative AI / BGE embeddings
 - 🗂️ Stores and retrieves vectors via **Pinecone DB**
-- ⚡ Uses **Groq's `openai/gpt-oss-120b`**  via **LangChain** for fast, accurate generation
+- ⚡ Uses **Groq's `llama-3.3-70b-versatile`**  via **LangChain** for fast, accurate generation
 - 🚀 **FastAPI** backend with clean endpoints for upload and Q&A
 - 💬 Streamlit-based chat interface with history download
 
@@ -46,7 +46,7 @@ LLM-generated Answer
 
 | Component     | Technology                     |
 |---------------|---------------------------------|
-| LLM           | Groq API(openai/gpt-oss-120b)   |
+| LLM           | Groq API(llama-3.3-70b-versatile)|
 | Embeddings    | Google Generative AI / BGE      |
 | Vector DB     | Pinecone                        |
 | Framework     | LangChain                       |
