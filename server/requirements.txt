@@ -1,0 +1,56 @@
+# ============================
+# FastAPI Backend
+# ============================
+fastapi
+uvicorn
+python-multipart
+
+# ============================
+# LangChain
+# ============================
+langchain
+langchain-community
+langchain-core
+langchain-groq
+
+
+# ============================
+# Vector Database
+# ============================
+pinecone
+
+# ============================
+# Google Generative AI
+# ============================
+langchain-google-genai
+
+# ============================
+# PDF Processing
+# ============================
+PyPDF2
+pypdf
+# ============================
+# Environment Variables
+# ============================
+python-dotenv
+
+# ============================
+# Data Validation
+# ============================
+pydantic
+
+# ============================
+# HTTP Requests
+# ============================
+requests
+
+# ============================
+# Progress Bars
+# ============================
+tqdm
+
+# ============================
+# Logging
+# ============================
+loguru
+
