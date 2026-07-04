@@ -2,7 +2,9 @@
 
 A **Medical Domain Chatbot** built using **Retrieval-Augmented Generation (RAG)**. Upload your own medical documents (textbooks, reports, notes) and get accurate, context-grounded answers powered by state-of-the-art LLMs.
 
-![Medical Assistant](assets/medicalAssistant.png)
+<p align="center">
+  <img src="https://miro.medium.com/1*myvGbGdZPDQ3fJVVJsxBnA.png" alt="RAG Architecture" width="800">
+</p>
 
 ---
 
