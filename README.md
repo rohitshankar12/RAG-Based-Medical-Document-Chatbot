@@ -38,7 +38,7 @@ For a detailed architectural walkthrough, refer to [`MedicalAssistant.pdf`](asse
 - ✂️ Auto-extracts text and splits it into semantic chunks
 - 🧠 Embeds content using Google Generative AI / BGE embeddings
 - 🗂️ Stores and retrieves vectors via **Pinecone DB**
-- ⚡ Uses **Groq's LLaMA3-70B** via **LangChain** for fast, accurate generation
+- ⚡ Uses **Groq's `openai/gpt-oss-120b`**  via **LangChain** for fast, accurate generation
 - 🚀 **FastAPI** backend with clean endpoints for upload and Q&A
 - 💬 Streamlit-based chat interface with history download
 
