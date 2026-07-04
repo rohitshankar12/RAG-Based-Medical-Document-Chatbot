@@ -48,13 +48,12 @@ For a detailed architectural walkthrough, refer to [`MedicalAssistant.pdf`](asse
 
 | Component     | Technology                     |
 |---------------|---------------------------------|
-| LLM           | Groq API (LLaMA3-70B)          |
+| LLM           | Groq API(openai/gpt-oss-120b)   |
 | Embeddings    | Google Generative AI / BGE      |
 | Vector DB     | Pinecone                        |
 | Framework     | LangChain                       |
 | Backend       | FastAPI                         |
 | Frontend      | Streamlit                       |
-| Deployment    | Render                          |
 
 ---
 
